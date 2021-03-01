@@ -1,0 +1,46 @@
+{
+    "about": {
+        "description": "This the description paragraph",
+        "skills": [
+            "HTML",
+            "CSS",
+            "Bootstrap",
+            "JavaScript / ES6",
+            "React",
+            "Python",
+            "Django",
+            "Flask"
+        ],
+        "links": {
+            "github": "https://github.com/jumboduck/",
+            "linkedin": "https://www.linkedin.com/in/simon-castagna/"
+        }
+    },
+
+    "projects": [
+        {
+            "title": "Beer WareHaus",
+            "image": "/randomimage.png",
+            "description": "An online shop for a hypothetical beer company.",
+            "tech": ["HTML", "CSS", "JavaScript", "Python", "Django"],
+            "deployed_url": "https://beer-warehaus.herokuapp.com/",
+            "github_url": "https://github.com/jumboduck/beer-warehaus"
+        },
+        {
+            "title": "squirrel",
+            "image": "/randomimage.png",
+            "description": "A repository for all things.",
+            "tech": ["HTML", "CSS", "JavaScript", "Python", "Flask", "mongodb"],
+            "deployed_url": "https://squirrel-logbook.herokuapp.com/",
+            "github_url": "https://github.com/jumboduck/squirrel"
+        },
+        {
+            "title": "CV Builder",
+            "image": "/randomimage.png",
+            "description": "An interactive CV Builder made with jQuery UI.",
+            "tech": ["HTML", "CSS", "JavaScript", "jQuery"],
+            "deployed_url": "https://squirrel-logbook.herokuapp.com/",
+            "github_url": "https://github.com/jumboduck/squirrel"
+        }
+    ]
+}
